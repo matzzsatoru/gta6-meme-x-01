@@ -8,7 +8,11 @@ The meme: a Vice City sunset in GTA loading-screen style. **MISSION PASSED — W
 - The post: see [`POST.json`](POST.json) for the X post URL
 - Play code used in the post: `makefun-feather-tide-marsh`
 
-`main.ts` copies `POST.json` to the output directory, as the starter does — the post itself is the entry.
+`main.ts` validates `POST.json` and copies it to the output directory — the post itself is the entry.
+
+## How it was made
+
+The scene (Vice City beachfront at sunset, neon pink and purple) was generated as a GTA-style loading-screen illustration, then the official make.fun ghost mascot from the press kit was composited into the street, and the captions were drawn on top in large GTA-style lettering so they stay readable when the judge shrinks the picture. The post went out from `@zannnelzan` with the play code and a link to the bounty page.
 
 ## License
 
